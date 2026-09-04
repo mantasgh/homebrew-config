@@ -1,0 +1,6 @@
+brew "neovim"
+brew "fzf"
+brew "fd"
+brew "ripgrep"
+brew "jq"
+brew "gh"
