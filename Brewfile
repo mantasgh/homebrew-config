@@ -8,3 +8,4 @@ brew "jq"
 brew "fnm"
 cask "claude-code"
 cask "ghostty"
+cask "mantasgh/tap/us-lithuanian-keyboard", trusted: true
