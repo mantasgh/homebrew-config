@@ -10,4 +10,5 @@ cask "claude-code"
 cask "ghostty"
 cask "hammerspoon"
 cask "betterdisplay"
+cask "virtualbuddy"
 cask "mantasgh/tap/us-lithuanian-keyboard", trusted: true
